@@ -1,8 +1,9 @@
 # salt-jsfs-cssToDoList
 ## A to-do-list, using CSS?
-Todays task is making a completely functional and interactive To-Do-List, using only CSS. A wise man (Jakob) once said: 
-
+Todays task is making a functional and interactive To-Do-List, using only CSS. 
+A wise man (Jakob) once said: 
 ```If you need to learn a new language, make a to-do-list.```
+
 We have provided you with the html file and you are supposed to be able to:
 
 * Click items to mark them as done
