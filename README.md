@@ -12,3 +12,5 @@ We have provided you with the html file and you are supposed to, using only css 
 _You are NOT allowed to:_
 * Touch the html file
 * Use any form of JavaScript
+
+![Example](examples/2.png)
