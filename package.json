@@ -1,4 +1,4 @@
-```{
+{
   "name": "webpack-sass",
   "version": "1.0.0",
   "scripts": {
@@ -14,4 +14,4 @@
     "webpack-cli": "^3.3.2",
     "webpack-dev-server": "^3.5.1"
   }
-}```
+}
